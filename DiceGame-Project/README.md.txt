@@ -1,0 +1,1 @@
+# Simple dice game on C language.
